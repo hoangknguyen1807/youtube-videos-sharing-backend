@@ -12,9 +12,12 @@
 $ npm install
 ```
 
-## Typeorm Helper
+## Database setup
+1. Create a PostgresSQL database named `youtube-videos-sharing`
+2. Run the 2nd migration script below
 
-##### Run migration first
+
+##### Run migration
 ```shell script
 # create migration
 npm run typeorm:create-migration create-user-table
