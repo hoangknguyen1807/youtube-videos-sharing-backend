@@ -4,6 +4,9 @@
 
 ## Installation
 
+1. Install Redis server on localhost, port 6379. See https://redis.io/docs/getting-started/installation/install-redis-on-linux
+2. Install dependencies
+
 ```bash
 $ npm install
 ```
