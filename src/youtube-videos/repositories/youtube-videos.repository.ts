@@ -18,8 +18,8 @@ export class YouTubeVideosRepository extends Repository<YouTubeVideoEntity> {
             .leftJoinAndSelect('YouTubeVideo.user', 'User')
             .where(condition)
             .orderBy('YouTubeVideo.createdAt', 'DESC')
+            .skip((page - 1)*perPage)
             .take(perPage)
-            .skip(page - 1)
             .getManyAndCount();
 
         return { items, count };
