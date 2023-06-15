@@ -1,0 +1,11 @@
+{
+  "an_error_occurred": "An error occurred during processing.",
+  "wrong_csv_type": "The {field} is only accept csv file.",
+  "wrong_csv_header_length": "The csv required with {length} columns.",
+  "distance_calculate_fail": "We apologize for the inconvenience. Due to some errors, we are unable to calculate the distance between locations at the moment, please try again later or use the Estimate option.",
+  "not_found": {
+    "UserEntity": "User not found",
+    "EnterpriseEntity": "Enterprise not found",
+    "NotificationEntity": "Notification not found"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "thumbnail_height": 360,
+  "version": "1.0",
+  "url": "https://youtu.be/b_hGkl9CSbM",
+  "type": "video",
+  "provider_url": "https://www.youtube.com/",
+  "height": 113,
+  "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/b_hGkl9CSbM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"How to install Windows 11 on Mac M1/M2 Processors for Free (UTM)\"></iframe>",
+  "author_url": "https://www.youtube.com/@Tips2Fix",
+  "author_name": "Tips 2 Fix",
+  "thumbnail_url": "https://i.ytimg.com/vi/b_hGkl9CSbM/hqdefault.jpg",
+  "title": "How to install Windows 11 on Mac M1/M2 Processors for Free (UTM)",
+  "thumbnail_width": 480,
+  "width": 200,
+  "provider_name": "YouTube"
+}

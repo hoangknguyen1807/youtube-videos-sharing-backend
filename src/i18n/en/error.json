@@ -1,0 +1,27 @@
+{
+    "an_error_occurred": "An error occurred during processing.",
+    "not_found": {
+        "Request": "The requested was not found on this server.",
+        "UserEntity": "User not found",
+        "YouTubeVideoEntity": "YouTube video not found"
+    },
+    "location_not_found": "The location can not be found.",
+    "distance_calculate_fail": "We apologize for the inconvenience. Due to some errors, we are unable to calculate the distance between locations at the moment, please try again later or use the Estimate option.",
+    "field_malformed": "The {field} is malformed.",
+    "wrong_csv_type": "The {field} is only accept csv file.",
+    "wrong_csv_header_length": "The csv required with {length} columns.",
+    "file_has_the_wrong_format": "The file has the wrong format.",
+    "405_error": "There is no such method.",
+    "413_error": "File too large.",
+    "429_error": "You are doing it too quickly.",
+    "forbidden": "You do not have permission to perform this operation.",
+    "max_limit": "You have exceeded the limit.",
+    "500_error": "An error occurred during processing.",
+    "token_is_invalid_or_expired": "Token is invalid or expired",
+    "email_or_password_wrong": "Your email address and/or password are incorrect.",
+    "password_does_not_match": "The password does not match",
+    "email_not_avalaible": "The email is not avalaible",
+    "unauthorized": "Authentication failed.",
+    "wrong_energy_type_unit": "The energy type {type} and unit {unit} is not a pair.",
+    "no_flights_available": "There are no flights available within this distance."
+}

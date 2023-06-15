@@ -1,0 +1,63 @@
+{
+  "ScopeTypeEnum": {
+    "ALL_DIRECT_EMISSIONS": "All Direct Emissions",
+    "INDIRECT_EMISSIONS": "Indirect Emissions",
+    "ALL_OTHER_INDIRECT_EMISSIONS": "All Other Indirect Emissions"
+  },
+  "ScopeDescription": {
+    "ALL_DIRECT_EMISSIONS": "from the activities of an organisation or under their control. Includes fuel combustion on site such as gas boilers, fleet vehicles and air-conditioning leaks.",
+    "INDIRECT_EMISSIONS": "from electricity purchased and used by the organisation. Emissions are created during the production of the energy and eventually used by the organisation.",
+    "ALL_OTHER_INDIRECT_EMISSIONS": "from activities of the organisation, occurring from sources that they do not own or control. These are usually the greatest share of the carbon footprint, covering emissions associated with business travel, procurement, waste and water."
+  },
+  "FuelTypeEnum": {
+    "PETROL": "Petrol",
+    "DIESEL": "Diesel",
+    "CNG": "CNG",
+    "LPG": "LPG"
+  },
+  "FuelUnitEnum": {
+    "LITERS": "liters",
+    "UK_GALLONS": "UK gallons",
+    "US_GALLONS": "US gallons",
+    "METRIC_TONS": "metric tons"
+  },
+  "EnergyTypeEnum": {
+    "ELECTRICITY": "Electricity",
+    "NATURAL_GAS": "Natural gas",
+    "HEATING_OIL": "Heating oil"
+  },
+  "EnergyUnitEnum": {
+    "KWH": "kWh",
+    "MWH": "MWh",
+    "THERMS": "therms",
+    "BTUS": "BTUs",
+    "LITERS": "liters",
+    "US_GALLONS": "US gallons",
+    "UK_GALLONS": "UK gallons",
+    "METRIC_TONS": "metric tons"
+  },
+  "DistanceUnitEnum": {
+    "MILES": "miles",
+    "KILOMETERS": "kilometers",
+    "M3": "m3"
+  },
+  "FlightClassEnum": {
+    "ECONOMY": "Economy",
+    "BUSINESS": "Business",
+    "FIRST": "First"
+  },
+  "MoveTypeEnum": {
+    "ROUND_TRIP": "Round trip",
+    "ONE_WAY": "One way"
+  },
+  "PublicTransportTypeEnum": {
+    "PASSENGER_CAR": "Passenger Car",
+    "LIGHT_DUTY_TRUCK": "Light-Duty Truck",
+    "MOTORCYCLE": "Motorcycle",
+    "INTER_CITY_RAIL": "Inter-city Rail",
+    "COMMUTER_RAIL": "Commuter Rail",
+    "SUBWAY": "Subway",
+    "TRAM": "Tram",
+    "BUS": "Bus"
+  }
+}

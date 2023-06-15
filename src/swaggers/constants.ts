@@ -1,0 +1,4 @@
+export const SWAGGER_CONSTANTS = {
+    SET_VALUE: 'SET_VALUE',
+    PUBLIC_API: 'PUBLIC_API'
+};
