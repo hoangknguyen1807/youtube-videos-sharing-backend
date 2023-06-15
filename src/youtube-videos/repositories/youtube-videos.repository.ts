@@ -15,6 +15,7 @@ export class YouTubeVideosRepository extends Repository<YouTubeVideoEntity> {
         }
         
         const [items, count] = await this.createQueryBuilder('YouTubeVideo')
+            .leftJoinAndSelect('YouTubeVideo.user', 'User')
             .where(condition)
             .orderBy('YouTubeVideo.createdAt', 'DESC')
             .take(perPage)

@@ -16,8 +16,8 @@ export class UserEntity extends BaseEntity {
     password: string;
 
     @Exclude()
-    @Column({ nullable: true })
-    public refreshToken: string;
+    @Column({ select: false, nullable: true })
+    refreshToken: string;
 
     @Column({
         type: 'timestamp',
